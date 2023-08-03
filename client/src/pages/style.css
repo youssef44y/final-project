@@ -1,0 +1,12 @@
+.form{
+    width: 40%;
+    background-color: rgb(235, 212, 183);
+    text-align: justify;
+    color: rgb(56, 54, 54);
+    padding: 10px8;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+.error{
+    color: red;
+}
